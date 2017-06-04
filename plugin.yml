@@ -1,8 +1,10 @@
 name: NavyCraft
 main: com.maximuspayne.navycraft.NavyCraft
-version: 1.0.0-1
-authors: [Yogoda, SycoPrime, Maximuspayne]
+version: 1.0.1
+authors: [Yogoda, SycoPrime, Maximuspayne, NavalClash Dev team]
 depend: [AimCannonNC,WorldGuard,WorldEdit,Essentials,GroupManager]
+NavalClash.net modified 4/6/17
+
 
 commands:
    navycraft:
